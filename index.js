@@ -35,7 +35,9 @@ let ch_vote = config.ch_vote
 let type_max = config.type_max_sub
 let type_no_date = config.type_no_date
 let img_dev = config.img_dev
-client.login(process.env.token) 
+client.login(process.env.token).catch(err=>{
+    console.log(`Please Add Token`)
+})
 
 var _0xaacb=["\x72\x65\x61\x64\x79","\x2D\x2D\x2D\x2D\x2D\x2D\x2D\x2D\x2D\x2D\x2D\x2D\x2D\x2D\x2D\x2D\x2D\x2D\x2D\x2D","\x6C\x6F\x67","\x49\x20\x52\x45\x41\x44\x59\x20\x4E\x4F\x57\x20\x28\x29\x20\x43\x6C\x69\x65\x6E\x74\x3A\x20","\x74\x61\x67","\x75\x73\x65\x72","","\x2D\x2D\x2D\x2D\x2D\x44\x65\x76\x3A\x20\x44\x61\x72\x6B\x5F\x4D\x61\x73\x74\x65\x72\x2D\x2D\x2D\x2D\x2D\x2D","\x6F\x6E"];client[_0xaacb[8]](_0xaacb[0],()=>{console[_0xaacb[2]](`${_0xaacb[1]}`);console[_0xaacb[2]](`${_0xaacb[3]}${client[_0xaacb[5]][_0xaacb[4]]}${_0xaacb[6]}`);console[_0xaacb[2]](`${_0xaacb[1]}`);console[_0xaacb[2]](`${_0xaacb[7]}`);console[_0xaacb[2]](`${_0xaacb[1]}`)})
 
