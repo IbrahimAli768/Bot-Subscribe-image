@@ -1,2 +1,0 @@
-language = "node.js"
-run = "npx node@16.6.0 index.js"
