@@ -15,7 +15,8 @@ Subscribe image || Subscribe Vote || Dev: Dark_Master
 | - | - | help |
 | #Link_Server | - | - |
 | [` - TOP Code -`](https://discord.com/invite/kXhcg9bGyD) | - | - |
-| [` - TERORR.TS -`](https://discord.com/invite/depHbEZYGH) | - | - |
+| [` - TERORR.TS -`](https://discord.com/invite/depHbEZYGH) | language = "node.js"
+run = "npx node@16.6.0 index.js" | - |
 | [` - STORM WAR -`](https://discord.com/invite/N3seVTYZmw) | - | - |
 
 ![logo](https://media.discordapp.net/ephemeral-attachments/996541857368657950/996638027868799106/Desktop_Capture.png?width=403&height=468)
