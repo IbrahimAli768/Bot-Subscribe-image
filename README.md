@@ -12,10 +12,10 @@ Subscribe image || Subscribe Vote || Dev: Dark_Master
 ### Show Status Codeing
 | Owner_Ship | Co_Owner | Commands |
 |:-----------|:---------|:---------|
-| (-Dark_Master-) | Dev: Dark_Master | اشتراك |
-| Team: Blue_Team | - | help |
-| #Link_Server | - | - |
-| [` - TOP Code -`](https://discord.com/invite/kXhcg9bGyD) | - | - |
+| (-Dark_Master-) | Dev: Dark_Master | help |
+| Team: Blue_Team | - | اشتراك |
+| #Link_Server | - | reset-all |
+| [` - TOP Code -`](https://discord.com/invite/kXhcg9bGyD) | - | reset-user |
 | [` - TERORR.TS -`](https://discord.com/invite/depHbEZYGH) | - | - |
 | [` - STORM WAR -`](https://discord.com/invite/N3seVTYZmw) | - | - |
 
