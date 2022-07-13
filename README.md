@@ -9,10 +9,11 @@ Subscribe image || Subscribe Vote || Dev: Dark_Master
 - language = "node.js"
 - run = "npx node@16.6.0 index.js"
 
+### Show Status Codeing
 | Owner_Ship | Co_Owner | Commands |
 |:-----------|:---------|:---------|
-| (-Dark_Master-) | - | اشتراك |
-| - | - | help |
+| (-Dark_Master-) | Dev: Dark_Master | اشتراك |
+| Team: Blue_Team | - | help |
 | #Link_Server | - | - |
 | [` - TOP Code -`](https://discord.com/invite/kXhcg9bGyD) | - | - |
 | [` - TERORR.TS -`](https://discord.com/invite/depHbEZYGH) | - | - |
