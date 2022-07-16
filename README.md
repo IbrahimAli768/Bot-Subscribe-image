@@ -19,4 +19,4 @@ Subscribe image || Subscribe Vote || Dev: Dark_Master
 | [` - TERORR.TS -`](https://discord.com/invite/depHbEZYGH) | - | - |
 | [` - STORM WAR -`](https://discord.com/invite/N3seVTYZmw) | - | - |
 
-![logo](https://media.discordapp.net/attachments/820937609827975179/979961811304587274/profile.png)
+![logo](https://media.discordapp.net/attachments/985490738437554186/997980715104866424/unknown.png)
