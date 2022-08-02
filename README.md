@@ -4,6 +4,7 @@ Subscribe image || Subscribe Vote || Dev: Dark_Master
 
 # install console open [shell]
 - type this => [`npm i -D node@16.6.0`]
+- edit files no't "v14" this "v13" type [`npm i discord.js@13.8.1`]
 
 ## show hidden file [.replit] add 
 - language = "node.js"
